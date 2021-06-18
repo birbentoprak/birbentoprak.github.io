@@ -13,7 +13,7 @@ Using Augmented Reality, Im hoping for making a fully functional website that yo
 
 
 # Authors
-..* Sarp Toprak Birben
+⋅⋅*  Sarp Toprak Birben
 
 # Sources
-..*[Bootstrap Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+⋅⋅* [Bootstrap Docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
